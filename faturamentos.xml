@@ -1,0 +1,15 @@
+<faturamentos>
+    <dia>
+        <data>2024-09-01</data>
+        <valor>1000.0</valor>
+    </dia>
+    <dia>
+        <data>2024-09-02</data>
+        <valor>1500.0</valor>
+    </dia>
+    <dia>
+        <data>2024-09-03</data>
+        <valor>0.0</valor>
+    </dia>
+    <!-- Mais dias -->
+</faturamentos>
